@@ -1,0 +1,15 @@
+{
+  "name": "htmlcss-card",
+  "version": "1.0.0",
+  "description": "Code from IT Start Line workshop",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itstartline/htmlcss-card.git"
+  },
+  "author": "Gregor Doroschenko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/itstartline/htmlcss-card/issues"
+  },
+  "homepage": "https://github.com/itstartline/htmlcss-card#readme"
+}
